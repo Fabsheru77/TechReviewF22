@@ -1,2 +1,4 @@
-# TechReviewF2222
-Sample django projectfor IT112
+# TechReviewF22
+Sample django project for IT112
+
+
